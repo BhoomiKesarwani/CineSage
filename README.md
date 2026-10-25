@@ -4,6 +4,10 @@ A simple AI-powered application that extracts structured movie information from 
 
 The application accepts a paragraph describing a movie and extracts key details such as its title, release year, genre, director, cast, rating, and summary.
 
+## 🚀 Live Demo
+
+Try CineSage here: [Open CineSage](https://cinesage-v2jdyue4gqykryhz33vd7h.streamlit.app/)
+
 ## ✨ Features
 
 - **Movie Information Extraction:** Extracts important movie details from natural language text.
